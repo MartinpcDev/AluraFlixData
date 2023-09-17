@@ -1,0 +1,276 @@
+{
+  "categorias": [
+    {
+      "categoria": "python",
+      "color": "#6BD1FF",
+      "descripcion": "Lenguaje Script de sintaxis sencilla y de curva de aprendizaje rapida. Posee numerosas librerias y cada vez se hace más poderoso.",
+      "id": 1
+    },
+    {
+      "categoria": "javascript",
+      "color": "#9CD33B",
+      "descripcion": "Lenguaje Script de la web el cual se hace más poderoso con el tiempo gracias a innumerables librerias y el paradigma JavaScript Everywhere",
+      "id": 2
+    },
+    {
+      "categoria": "html",
+      "color": "#00C86F",
+      "descripcion": "Lenguaje de marcado con el que se estructuran sitios web. Fundamental en desarrollo web",
+      "id": 3
+    },
+    {
+      "categoria": "css",
+      "color": "#6B5BE2",
+      "descripcion": "Lenguaje de estilización de etiquetas HTML fundamental junto con HTML en el desarrollo web.",
+      "id": 4
+    },
+    {
+      "categoria": "tips",
+      "color": "#FFFF00",
+      "descripcion": "Consejos para comprender el panorama general al momento de decidir aprender a programar",
+      "id": 5
+    }
+  ],
+  "videos": [
+    {
+      "categoria": "python",
+      "descripcion": "Curso de Python para principiantes desde cero en el cual se cubre lo fundamental en cuanto a conceptos y se aprende a aplicar tales conceptos vía código escrito en la terminal o editor de modo de tener un feedback inmediato de comprensión",
+      "id": 1,
+      "imagen": "https://i3.ytimg.com/vi/Kp4Mvapo5kc/maxresdefault.jpg",
+      "titulo": "Curso de Python desde Cero para Principiantes",
+      "url": "https://www.youtube.com/embed/Kp4Mvapo5kc"
+    },
+    {
+      "categoria": "javascript",
+      "descripcion": "Curso de JavaScript muy completo en el cual se aborda lo fundamental en relación a conceptos y su aplicación inmediata escribiendo código en un editor o terminal de modo de tener un feedback inmediato de aprendizaje",
+      "id": 2,
+      "imagen": "https://i3.ytimg.com/vi/Eh-s-n_6zNQ/maxresdefault.jpg",
+      "titulo": "Curso Completo de Javascript desde Cero",
+      "url": "https://www.youtube.com/embed/Eh-s-n_6zNQ"
+    },
+    {
+      "categoria": "javascript",
+      "descripcion": "Curso de Node.js y Express.js en el cual se aborda lo fundamental en el lado del backend o servidor",
+      "id": 3,
+      "imagen": "https://i3.ytimg.com/vi/1hpc70_OoAg/maxresdefault.jpg",
+      "titulo": "Aprende Node.js y Express - Curso desde Cero",
+      "url": "https://www.youtube.com/embed/1hpc70_OoAg"
+    },
+    {
+      "categoria": "javascript",
+      "descripcion": "Curso de la librería React.js en el cual se cubre lo fundamental en relación a conceptos y aplicación inmediata",
+      "id": 4,
+      "imagen": "https://i3.ytimg.com/vi/ladwC6Lrs-M/maxresdefault.jpg",
+      "titulo": "React.JS desde cero | Curso tutorial completo",
+      "url": "https://www.youtube.com/embed/ladwC6Lrs-M"
+    },
+    {
+      "categoria": "javascript",
+      "descripcion": "Curso práctico de uso de la librería React.js en el cual se realizan proyectos de diversa dificultad",
+      "id": 5,
+      "imagen": "https://i3.ytimg.com/vi/0C5yFwOYhAk/maxresdefault.jpg",
+      "titulo": "Aprende React.js con 3 proyectos incluidos! +6 horas",
+      "url": "https://www.youtube.com/embed/0C5yFwOYhAk"
+    },
+    {
+      "categoria": "javascript",
+      "descripcion": "Curso teorico, practico de React desde un nivel básico a intermedio-básico",
+      "id": 6,
+      "imagen": "https://i3.ytimg.com/vi/7iobxzd_2wY/maxresdefault.jpg",
+      "titulo": "Curso de React [2023]: De cero hasta crear tus primeros componentes con estado",
+      "url": "https://www.youtube.com/embed/7iobxzd_2wY"
+    },
+    {
+      "categoria": "javascript",
+      "descripcion": "Curso sobre aspectos esenciales de JavaScript para comprender la librería React.js",
+      "id": 7,
+      "imagen": "https://i3.ytimg.com/vi/m55PTVUrlnA/maxresdefault.jpg",
+      "titulo": "All The JavaScript You Need To Know For React",
+      "url": "https://www.youtube.com/embed/m55PTVUrlnA"
+    },
+    {
+      "categoria": "python",
+      "descripcion": "Curso extremadamente completo sobre lo fundamental de Python desde un nivel básico a medio alto.",
+      "id": 8,
+      "imagen": "https://i3.ytimg.com/vi/nLRL_NcnK-4/maxresdefault.jpg",
+      "titulo": "Harvard CS50`s Introduction to Programming with Python",
+      "url": "https://www.youtube.com/embed/nLRL_NcnK-4"
+    },
+    {
+      "categoria": "python",
+      "descripcion": "Curso de Python el cual abarca lo fundamental pero de una manera comprimida",
+      "id": 9,
+      "imagen": "https://i3.ytimg.com/vi/VchuKL44s6E/maxresdefault.jpg",
+      "titulo": "Python As Fast as Possible - Learn Python in ~75 Minutes",
+      "url": "https://www.youtube.com/embed/VchuKL44s6E"
+    },
+    {
+      "categoria": "python",
+      "descripcion": "Curso de Python practico en el cual se aprenden o fortalecen conceptos haciendo (hands-on)",
+      "id": 10,
+      "imagen": "https://i3.ytimg.com/vi/th4OBktqK1I/maxresdefault.jpg",
+      "titulo": "Learn Python With This ONE Project!",
+      "url": "https://www.youtube.com/embed/th4OBktqK1I"
+    },
+    {
+      "categoria": "python",
+      "descripcion": "Curso de Python enfocado en la programación orientada a objetos. Dicho paradigma de programación es el predominante hoy en día y dominarlo te abre las puertas de la programación a nivel avanzado",
+      "id": 11,
+      "imagen": "https://i3.ytimg.com/vi/JeznW_7DlB0/maxresdefault.jpg",
+      "titulo": "Python Object Oriented Programming (OOP) - For Beginners",
+      "url": "https://www.youtube.com/embed/JeznW_7DlB0"
+    },
+    {
+      "categoria": "python",
+      "descripcion": "Curso del Framework ágil Django de Python desde cero",
+      "id": 12,
+      "imagen": "https://i3.ytimg.com/vi/T1intZyhXDU/maxresdefault.jpg",
+      "titulo": "Django, Curso de Django para Principiantes",
+      "url": "https://www.youtube.com/embed/T1intZyhXDU"
+    },
+    {
+      "categoria": "html",
+      "descripcion": "Curso de HTML5 que cubre lo fundamental para estructurar páginas web",
+      "id": 13,
+      "imagen": "https://i3.ytimg.com/vi/kN1XP-Bef7w/maxresdefault.jpg",
+      "titulo": "Curso de HTML5 desde CERO (Completo)",
+      "url": "https://www.youtube.com/embed/kN1XP-Bef7w"
+    },
+    {
+      "categoria": "html",
+      "descripcion": "Curso de HTML5 de la plataforma FreeCodeCamp ideal para principiantes",
+      "id": 14,
+      "imagen": "https://i3.ytimg.com/vi/kUMe1FH4CHE/maxresdefault.jpg",
+      "titulo": "Learn HTML-Full Tutorial for Beginners (2022)",
+      "url": "https://www.youtube.com/embed/kUMe1FH4CHE"
+    },
+    {
+      "categoria": "html",
+      "descripcion": "Curso de HTML5 de la plataforma FreeCodeCamp el cual tiene sobre 4 Millones de Vistas, ideal para principiantes",
+      "id": 15,
+      "imagen": "https://i3.ytimg.com/vi/pQN-pnXPaVg/maxresdefault.jpg",
+      "titulo": "HTML Full Course - Build a Website Tutorial",
+      "url": "https://www.youtube.com/embed/pQN-pnXPaVg"
+    },
+    {
+      "categoria": "html",
+      "descripcion": "Curso de HTML5 de la plataforma FreeCodeCamp el cual presenta una introducción a programar junto con HTML",
+      "id": 16,
+      "imagen": "https://i3.ytimg.com/vi/GDGejH3SDNQ/maxresdefault.jpg",
+      "titulo": "HTML & Coding Introduction - Course for Beginners",
+      "url": "https://www.youtube.com/embed/GDGejH3SDNQ"
+    },
+    {
+      "categoria": "html",
+      "descripcion": "Curso Completo de HTML en español con más de 1 Millos de Vistas",
+      "id": 17,
+      "imagen": "https://i3.ytimg.com/vi/MJkdaVFHrto/maxresdefault.jpg",
+      "titulo": "Aprende HTML ahora! curso completo GRATIS desde cero",
+      "url": "https://www.youtube.com/embed/MJkdaVFHrto"
+    },
+    {
+      "categoria": "html",
+      "descripcion": "Curso Completo de HTML5 en español bastante comprensible y útil para principiantes hecho en el editor Visual Studio Code",
+      "id": 18,
+      "imagen": "https://i3.ytimg.com/vi/vz4z0RLcAyk/maxresdefault.jpg",
+      "titulo": "Tutorial HTML desde Cero-HTML5 Para PRINCIPIANTES",
+      "url": "https://www.youtube.com/embed/vz4z0RLcAyk"
+    },
+    {
+      "categoria": "css",
+      "descripcion": "Curso para aprender CSS en español ideal para principiantes",
+      "id": 19,
+      "imagen": "https://i3.ytimg.com/vi/wZniZEbPAzk/maxresdefault.jpg",
+      "titulo": "Aprende CSS ahora! curso completo GRATIS desde cero",
+      "url": "https://www.youtube.com/embed/wZniZEbPAzk"
+    },
+    {
+      "categoria": "css",
+      "descripcion": "Curso para aprender CSS en español con más de 3.5 millones de vistas y más de 9 horas de contenido ideal para principiantes",
+      "id": 20,
+      "imagen": "https://i3.ytimg.com/vi/OWKXEJN67FE/maxresdefault.jpg",
+      "titulo": "Curso de CSS desde CERO (Completo)",
+      "url": "https://www.youtube.com/embed/OWKXEJN67FE"
+    },
+    {
+      "categoria": "css",
+      "descripcion": "Curso para aprender CSS desde cero ideal para principiantes",
+      "id": 21,
+      "imagen": "https://i3.ytimg.com/vi/N8V5JhasaSE/maxresdefault.jpg",
+      "titulo": "CURSO CSS desde Cero - CSS BÁSICO Para PRINCIPIANTES",
+      "url": "https://www.youtube.com/embed/N8V5JhasaSE"
+    },
+    {
+      "categoria": "css",
+      "descripcion": "Curso de aplicación de HTML y CSS con proyecto incluidos. Más de 6 horas de contenido",
+      "id": 22,
+      "imagen": "https://i3.ytimg.com/vi/AXPASVeX74o/maxresdefault.jpg",
+      "titulo": "Aprende html y css! con 5 proyectos incluidos",
+      "url": "https://www.youtube.com/embed/AXPASVeX74o"
+    },
+    {
+      "categoria": "css",
+      "descripcion": "Curso de HTML y CSS de la plataforma FreeCodeCamp con más de 1 millón de vistas en Español",
+      "id": 23,
+      "imagen": "https://i3.ytimg.com/vi/XqFR2lqBYPs/maxresdefault.jpg",
+      "titulo": "Aprende HTML y CSS - Curso Desde Cero",
+      "url": "https://www.youtube.com/embed/XqFR2lqBYPs"
+    },
+    {
+      "categoria": "css",
+      "descripcion": "Curso de CSS muy completo con más de 11 horas de contenido",
+      "id": 24,
+      "imagen": "https://i3.ytimg.com/vi/n4R2E7O-Ngo/maxresdefault.jpg",
+      "titulo": "CSS Full Course for Beginners | Complete All-in-One Tutorial",
+      "url": "https://www.youtube.com/embed/n4R2E7O-Ngo"
+    },
+    {
+      "categoria": "tips",
+      "descripcion": "Motivos para aprender a programar y comprensión de que la programación moldea la sociedad del siglo XXI",
+      "id": 25,
+      "imagen": "https://i3.ytimg.com/vi/PlaQ913yggM/maxresdefault.jpg",
+      "titulo": "¿Por Qué Estudiar Programación?",
+      "url": "https://www.youtube.com/embed/PlaQ913yggM"
+    },
+    {
+      "categoria": "tips",
+      "descripcion": "Aprender a programar no es algo exclusivo dictado por universidades, de hecho existen universidades o institutos que utilizan como recurso de aprendizaje contenido disponible en internet de fuentes que enseñan programación o generan tecnología. Por ese motivo recurrir a las fuentes mismas de generación de contenido de programación SIEMPRE será algo mucho más eficiente y, en muchos casos, mucho más económico.",
+      "id": 26,
+      "imagen": "https://i3.ytimg.com/vi/ussBmFfyZFo/maxresdefault.jpg",
+      "titulo": "¿Es necesario que vaya a la universidad para aprender programacion?",
+      "url": "https://www.youtube.com/embed/ussBmFfyZFo"
+    },
+    {
+      "categoria": "tips",
+      "descripcion": "Es sabido que en pleno siglo XXI la tecnología modela la vida y cambia dinámicas de manera mucho más rápida que en épocas pasadas, empresas nuevas surgen en todos los estratos sociales. Es ese fenómeno que gatilla que muchas personas que estudiaron para cierta profesión y esten estancadas en su crecimiento profesional o no se les valore como se debe, deseen hacer un cambio profesional y emprender una transición de carrera hacia la industria tecnológica la cual presenta mayor posibilidad de desarrollo profesional y salidas del tipo freelance.",
+      "id": 27,
+      "imagen": "https://i3.ytimg.com/vi/hqBddtoMn-k/maxresdefault.jpg",
+      "titulo": "¡Prepárate para el Cambio! Tips para una Transición de Carrera exitosa",
+      "url": "https://www.youtube.com/embed/hqBddtoMn-k"
+    },
+    {
+      "categoria": "tips",
+      "descripcion": "Un Profesional Tech necesita tener conocimientos generales o transversales para pensar en soluciones como un todo junto con el conocimiento especializado o técnico propio de su campo.",
+      "id": 28,
+      "imagen": "https://i3.ytimg.com/vi/0udk1vXmwkc/maxresdefault.jpg",
+      "titulo": "¿Cómo ser un Profesional en T? Conociendo al Tech Guide",
+      "url": "https://www.youtube.com/embed/0udk1vXmwkc"
+    },
+    {
+      "categoria": "tips",
+      "descripcion": "Para enfrentar con éxito el mundo tech se requiere tener una rutina de estudio continua al punto de hacerlo un hábito diario y para eso es vital re-estructurar el estilo de vida con miras a cumplir tales metas. Por tanto, la gestión del tiempo de manera eficiente es clave para mantener la motivación y lograr avanzar.",
+      "id": 29,
+      "imagen": "https://i3.ytimg.com/vi/3mDnrL8YVaA/maxresdefault.jpg",
+      "titulo": "¿Sabes cómo organizar tu rutina de estudio? Descubre aquí",
+      "url": "https://www.youtube.com/embed/3mDnrL8YVaA"
+    },
+    {
+      "categoria": "tips",
+      "descripcion": "Un desarrollador no debe aislarse en su área puesto que esta inserto en un sistema, sistema que se fundamenta en ser negocio. La visión que debe poseer es una visión holistica o sistémica y razonar en cómo su trabajo se acopla a dicho negocio. Lo anterior se hace concreto al desarrollador en lo que se conoce como Reglas de Negocio.",
+      "id": 30,
+      "imagen": "https://i3.ytimg.com/vi/PtPyM0ZgshA/maxresdefault.jpg",
+      "titulo": "La importancia de la Visión de Negocio para las personas desarrolladoras",
+      "url": "https://www.youtube.com/embed/PtPyM0ZgshA"
+    }
+  ]
+}
